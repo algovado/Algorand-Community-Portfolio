@@ -12,7 +12,7 @@
 
 AlgoVerify is a Discord verification system for Algorand projects. It has been working actively since September 2021.
 
-#### Website coming soon.
+[https://www.algoverify.me](https://www.algoverify.me)
 
 <p align="center" width="100%">
     <img alt="algoverify" width="50%" src="images/algoverify.png">
