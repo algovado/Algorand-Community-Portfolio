@@ -72,3 +72,12 @@ Linx Games is a place where you can play games earn Linx tokens for [Lynx](https
 <p align="center" width="100%">
     <img alt="algobulls" height="50%" src="images/pyrenees.png">
 </p>
+
+## Puddin City
+ Puddin City is a place where you can join the raffles with Puddin tokens for [Fractitous](https://twitter.com/FractitousNFT) community.
+
+[https://puddincity.algo.xyz](https://puddincity.algo.xyz)
+
+<p align="center" width="100%">
+    <img alt="puddin-city" height="50%" src="images/puddin-city.png">
+</p>
